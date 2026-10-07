@@ -1,0 +1,6 @@
+<Mod
+	name="No Mod Lock"
+	description="Fully removes the restrictions the game imposes for playing with mods: achievements, unlockable progress, and end-of-run records / win streaks / stats. Works by patching the engine's own decision code (never by altering game data). Patches are located by byte signature, so they survive game updates that only move code around. Requires 'unsafe mods' to be enabled."
+	request_no_api_restrictions="1"
+>
+</Mod>

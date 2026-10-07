@@ -1,0 +1,6 @@
+# 运行时/日志文件：不属于 mod 本体
+*.log
+*.tmp
+Thumbs.db
+desktop.ini
+.DS_Store
